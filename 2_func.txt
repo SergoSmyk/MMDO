@@ -1,0 +1,27 @@
+// Lines started with "//" will be ignored
+// Epsilo (pow (10, x)) x =
+-4
+// Variables count
+2
+// Var1 name
+a
+// Var2 name
+b
+// Main function
+10*a^2+4*a*b+b^2-2*a+b
+// First order derivativas 1  (var1)
+20*a+4*b-2
+// First order derivativas 2  (var2)
+4*a+2*b+1 
+// Var1 value 
+0
+// Var2 value
+0
+// Second order derivativas 1,1  (var1)
+20
+// Second order derivativas 1,2	 (var1)
+4
+// Second order derivativas 2,1  (var2)
+4
+// Second order derivativas 2,2  (var2)
+2

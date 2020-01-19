@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab5/1.0.0": {
+        "dependencies": {
+          "MathParser.org-mXparser": "4.4.0"
+        },
+        "runtime": {
+          "Lab5.dll": {}
+        }
+      },
+      "MathParser.org-mXparser/4.4.0": {
+        "runtime": {
+          "lib/netcoreapp31/MathParser.org-mXparser.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathParser.org-mXparser/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KaS9RMbRNKtitq57I9ebbIOZUpYOKf/lFQTaLbYDvGN2hRs2U8ui7ZqWjaC+jKPP4NEe5UVvDo4034n76ifomQ==",
+      "path": "mathparser.org-mxparser/4.4.0",
+      "hashPath": "mathparser.org-mxparser.4.4.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+// Lines started with "//" will be ignored
+// Epsilon
+
+// Variables count
+
+// Var1 name
+
+// Var2 name
+
+// Main function
+
+// First order derivativas 1  (var1)
+
+// First order derivativas 2  (var2)
+
+// Second order derivativas 1,1  (var1)
+
+// Second order derivativas 1,2	 (var1)
+
+// Second order derivativas 2,1  (var2)
+
+// Second order derivativas 2,2  (var2)
+
+// Var1 value 
+
+// Var2 value
